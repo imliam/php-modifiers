@@ -115,7 +115,7 @@ say('Hello world'); // 'Hello world'
 
 ## The Modifiers
 
-There are four modifiers available to use. It is very important to note that as they are all also regular operators in PHP, each of them have their own quirks that might change the expected behaviour and return values of the methods.
+There are five modifiers available to use. It is very important to note that as they are all also regular operators in PHP, each of them have their own quirks that might change the expected behaviour and return values of the methods.
 
 Using them
 
