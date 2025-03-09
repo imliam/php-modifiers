@@ -2,8 +2,8 @@
 
 namespace ImLiam\Modifiers\Tests\Unit;
 
+use PHPUnit\Framework\TestCase;
 use ImLiam\Modifiers\HasModifiers;
-use ImLiam\Modifiers\Tests\TestCase;
 
 class ModifierTest extends TestCase
 {
