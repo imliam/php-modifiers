@@ -1,9 +1,7 @@
 # PHP Modifiers
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/imliam/php-modifiers.svg)](https://packagist.org/packages/imliam/php-modifiers)
-[![Build Status](https://img.shields.io/travis/imliam/php-modifiers.svg)](https://travis-ci.org/imliam/php-modifiers)
 ![Code Quality](https://img.shields.io/scrutinizer/g/imliam/php-modifiers.svg)
-![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/imliam/php-modifiers.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/imliam/php-modifiers.svg)](https://packagist.org/packages/imliam/php-modifiers)
 [![License](https://img.shields.io/github/license/imliam/php-modifiers.svg)](LICENSE.md)
 
@@ -21,23 +19,23 @@ Slack::say('Hello world'); // 'Hello world'
 <!-- TOC -->
 
 - [PHP Modifiers](#php-modifiers)
-    - [💾 Installation](#💾-installation)
-    - [📝 Usage](#📝-usage)
-        - [Global Functions](#global-functions)
-    - [The Modifiers](#the-modifiers)
-        - [`!` Exclamation Mark](#-exclamation-mark)
-        - [`+` Plus Symbol](#-plus-symbol)
-        - [`-` Minus Symbol](#--minus-symbol)
-        - [`~` Tilde Symbol](#-tilde-symbol)
-        - [`@` "At" Symbol](#-at-symbol)
-    - [How It Works](#how-it-works)
-    - [✅ Testing](#✅-testing)
-    - [🔖 Changelog](#🔖-changelog)
-    - [⬆️ Upgrading](#⬆️-upgrading)
-    - [🎉 Contributing](#🎉-contributing)
-        - [🔒 Security](#🔒-security)
-    - [👷 Credits](#👷-credits)
-    - [♻️ License](#♻️-license)
+  - [💾 Installation](#-installation)
+  - [📝 Usage](#-usage)
+    - [Global Functions](#global-functions)
+  - [The Modifiers](#the-modifiers)
+    - [`!` Exclamation Mark](#-exclamation-mark)
+    - [`+` Plus Symbol](#-plus-symbol)
+    - [`-` Minus Symbol](#--minus-symbol)
+    - [`~` Tilde Symbol](#-tilde-symbol)
+    - [`@` "At" Symbol](#-at-symbol)
+  - [How It Works](#how-it-works)
+  - [✅ Testing](#-testing)
+  - [🔖 Changelog](#-changelog)
+  - [⬆️ Upgrading](#️-upgrading)
+  - [🎉 Contributing](#-contributing)
+    - [🔒 Security](#-security)
+  - [👷 Credits](#-credits)
+  - [♻️ License](#️-license)
 
 <!-- /TOC -->
 
